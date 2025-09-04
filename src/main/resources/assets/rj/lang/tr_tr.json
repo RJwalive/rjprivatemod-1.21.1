@@ -1,0 +1,19 @@
+{
+  "item.rj.raw_corrupted_iron_deposit": "Ham Bozulmuş Demir Yatağı",
+  "item.rj.corrupted_iron_deposit": "Bozulmuş Demir Yatağı",
+  "item.rj.chisel": "Keski",
+  "item.rj.camera_shake_wand": "Kamera Sarsma Asası",
+
+  "block.rj.raw_corrupted_iron_deposit_block": "Ham Bozulmuş Demir Cevheri",
+  "block.rj.ring_of_fire": "Ateş Çemberi Asası",
+
+  "itemgroup.rj.corrupted_item_group": "Bozulmuş Eşyalar",
+  "itemgroup.rj.corrupted_block_group": "Bozulmuş Bloklar",
+  "itemgroup.rj.rjs_shenanigans": "Rj'in Test Şakaları",
+
+  "item.rj.apple_pie": "Elmalı Turta",
+  "tooltip.rj.apple_pie.tooltip": "Sadece Bir §cElmalı Turta",
+
+  "tooltip.rj.chisel.shift_down": "Sadece Bir Keski",
+  "tooltip.rj.chisel": "Daha Fazla Bilgi İçin §eShift§r Tuşuna Basın"
+}

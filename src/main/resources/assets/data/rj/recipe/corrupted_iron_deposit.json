@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "rj:raw_corrupted_iron_deposit_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "rj:corrupted_iron_deposit"
+  }
+}

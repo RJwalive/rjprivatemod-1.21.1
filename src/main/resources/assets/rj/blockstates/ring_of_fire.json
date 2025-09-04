@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rj:block/ring_of_fire",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rj:block/ring_of_fire"
+    },
+    "facing=south": {
+      "model": "rj:block/ring_of_fire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rj:block/ring_of_fire",
+      "y": 270
+    }
+  }
+}

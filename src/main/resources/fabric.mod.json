@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "rj",
+	"version": "${version}",
+	"name": "Rj's super secret mod",
+	"description": "blahblahblah",
+	"authors": [
+		"just me rj!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/rj/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.rj.rj.Rjprivatemod"
+		],
+	      "fabric-datagen": [
+			"net.rj.rj.RjprivatemodDataGenerator"
+		],
+      "client":
+              [
+                "net.rj.rj.RjprivatemodClient",
+                "net.rj.rj.entity.client.ModEntitiesClient"
+              ]
+    },
+	"mixins": [
+		"rj.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+      "architectury": ">=13.0.8"
+	},
+	"suggests": {
+		"another-mod": "*",
+      "modmenu": "*",
+      "jade": "*"
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "item.rj.raw_corrupted_iron_deposit": "Raw Corrupted Iron Deposit",
+  "item.rj.corrupted_iron_deposit": "Corrupted Iron Deposit",
+  "item.rj.chisel": "Chisel",
+  "item.rj.camera_shake_wand": "Camera Shaking Wand",
+
+
+
+  "block.rj.raw_corrupted_iron_deposit_block": "Raw Corrupted Iron Deposit Ore",
+  "block.rj.ring_of_fire": "Ring Of Fire Wand",
+
+
+  "itemgroup.rj.corrupted_item_group": "Corrupted Items",
+  "itemgroup.rj.corrupted_block_group": "Corrupted Blocks",
+  "itemgroup.rj.rjs_shenanigans": "Rjs Test Shenanigans",
+
+
+  "item.rj.apple_pie": "Apple Pie",
+  "tooltip.rj.apple_pie.tooltip": "Just An §cApple Pie",
+
+
+  "tooltip.rj.chisel.shift_down": "Just An Chisel",
+  "tooltip.rj.chisel": "Press §eShift§r for more Information"
+}
